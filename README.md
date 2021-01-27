@@ -4,8 +4,9 @@ This is the source to my personal developer blog.
 
 # Colophon
 
-- `GitHub`: hosting
+- `GitHub Pages`: hosting
 - `git`: source control
+- `Google Domains`: DNS and domain management
 - `HTML`: site implementation language
 - `vim`: text editor
 
